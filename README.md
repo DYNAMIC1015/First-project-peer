@@ -10,6 +10,7 @@
 - *SpringBoot*
 - *Oracle*
 - *AWS*
+- *Gradle*
 - *Thymeleaf*
 - *JavaScript*
 - *jQuery*
