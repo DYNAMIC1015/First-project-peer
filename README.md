@@ -6,7 +6,6 @@
 
 프로젝트 개발환경
 - *SpringBoot*
-- *Tomcat*
 - *Oracle*
 - *AWS*
 - *Thymeleaf*
