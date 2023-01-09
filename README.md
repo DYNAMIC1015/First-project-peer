@@ -7,11 +7,7 @@
 프로젝트 주제 : 여행 숙박예약,커뮤니티 사이트
 
 프로젝트 개발환경
-- *SpringBoot*
-- *Oracle*
-- *AWS*
-- *Gradle*
-- *Thymeleaf*
-- *JavaScript*
-- *jQuery*
-- *HTML5&CSS3*
+- Back-End: Java, SpringBoot, Gradle, Thymeleaf, AWS EC2
+- Front-End: HTML/CSS
+- DataBase: Oracle
+- ORM: MyBatis
