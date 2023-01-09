@@ -7,6 +7,7 @@
 프로젝트 주제 : 여행 숙박예약,커뮤니티 사이트
 
 프로젝트 개발환경
+- *Java*
 - *SpringBoot*
 - *Oracle*
 - *AWS EC2*
