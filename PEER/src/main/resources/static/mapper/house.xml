@@ -31,11 +31,11 @@
 	
 	<!-- 숙소 보기 -->
 	<select id="getHouseCont" parameterType="int" resultType="peer.model.house.HouseBean">
-		select * from house where house_num=#{house_num}
+		select house_num,user_num,house_name,house_address,house_x,house_y,house_photo,house_capacity,house_form,house_share,house_detail,house_detail2,house_authority from house where house_num=#{house_num}
 	</select>
 	
 	<select id="getHpriceCont" parameterType="int" resultType="peer.model.house.HousepriceBean">
-		select * from house_price where house_num=#{house_num}
+		select house_num,daterange,hprice_bweek,hprice_bweekend,hprice_sweek,hprice_sweekend from house_price where house_num=#{house_num}
 	</select>
 	
 	<!-- 등록된 숙소 삭제 -->
